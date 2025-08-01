@@ -1,5 +1,5 @@
 # Brain-Tumor-Detector
-This is my project for the "EEE 312" course offered in BUET EEE in Level 3 Term I.
+This is my project for the "EEE 312" course offered in Level 3 Term I of BUET EEE undergraduate program.
 
 For detecting individual cases, use the SingleMRI.m file. For detecting multiple cases, use the BatchMRI.m file. To use the batch file, you must create a folder for MRI images and another folder for ground truth images.
 
