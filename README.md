@@ -11,6 +11,9 @@ A sample MRI and ground truth dataset is provided here for testing.
 This project is prepared by the following individuals:
 
 Md. Ihasan Chowdhury Leyon – 2106072
+
 Kirtee Paul Shailee – 2106075
+
 Md. Samin Imran Talukder – 2106088
+
 Adit Al Razi – 2106090
