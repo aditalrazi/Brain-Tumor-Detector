@@ -6,3 +6,11 @@ For detecting individual cases, use the SingleMRI.m file. For detecting multiple
 The DICE coefficient, IoU and F1 score is evaluated by comparing the code's output to the ground truth images.
 
 A sample MRI and ground truth dataset is provided here for testing.
+
+
+This project is prepared by the following individuals:
+
+Md. Ihasan Chowdhury Leyon – 2106072
+Kirtee Paul Shailee – 2106075
+Md. Samin Imran Talukder – 2106088
+Adit Al Razi – 2106090
